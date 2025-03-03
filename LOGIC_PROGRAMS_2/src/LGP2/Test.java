@@ -1,4 +1,4 @@
-package Logic_Programs2;
+package LGP2;
 
 public class Test {
 

@@ -1,4 +1,4 @@
-package Logic_Programs2;
+package LGP2;
 
 public class STR_Non_repeted_Elements {
 
